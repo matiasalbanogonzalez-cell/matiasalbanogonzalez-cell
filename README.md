@@ -4,10 +4,10 @@
 
 <img align="right" height="270px" alt="cat-coding" width="350" src="https://i.ibb.co/6R2M3S8/matrix-cat.png" />
 
-> I am Sr FullStack Developer & Tech Lead
+> Soy un Desarrollador Web- UX-IX  
 <br />
 
-- :computer: &nbsp;Connect with me on **[LinkedIn](https://linkedin.com/in/patricio-gomez)**
+- :computer: &nbsp;Connect with me on **[LinkedIn](https://linkedin.com/)**
 - 📫 How to reach me **matiasalbanogonzalez@gmail.com**
 - 📝 Instituto Superior Santo Domingo 
 - 💬 Ask me about: anything, I am happy to help
