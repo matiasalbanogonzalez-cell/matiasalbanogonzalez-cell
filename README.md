@@ -1,108 +1,59 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F3FBF,100:0D1117&height=200&section=header&text=Matias%20Albano%20Gonzalez&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F3FBF,100:0D1117&height=200&section=header&text=Matias%20Albano%20Gonzalez&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
-
-<h1 align="center">👋 Hola, soy Matias Albano Gonzalez</h1>
-
 <p align="center">
-💻 Desarrollador Web | 🎨 UX/UI | 🚀 Apasionado por la tecnología
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desarrollador+Full+Stack;React+%7C+Next.js+%7C+Node.js;Tambi%C3%A9n+hago+apps+Android&center=true&width=500&height=40&color=A371F7" />
 </p>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador+Web;Frontend+Developer;Backend+Developer;Apasionado+por+la+Tecnología&center=true&width=500&height=40">
+  <a href="https://matias-gonzalez-dev.web.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visitar-7F3FBF?style=for-the-badge&logo=firebase&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/matias-albano-gonzalez">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:matiasalbanogonzalez@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Escribime-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
-
 ---
-
-<img align="right" height="250" src="https://i.ibb.co/6R2M3S8/matrix-cat.png"/>
-
-## 👨‍💻 Sobre mí
-
-- 💻 Desarrollador web enfocado en crear aplicaciones modernas  
-- 🎨 Interesado en diseño de interfaces y experiencia de usuario (UX/UI)  
-- 🎓 Estudiante del **Instituto Superior Santo Domingo**  
-- 🚀 Siempre aprendiendo nuevas tecnologías  
-- 🌎 Interesado en desarrollo **Full Stack**  
-- 💬 Puedes preguntarme sobre **JavaScript, React, Node y bases de datos**  
-
-📫 **Contacto:** matiasalbanogonzalez@gmail.com
-
+👨‍💻 Sobre mí
+🎓 Estudiante de Desarrollo de Software en el Instituto Superior Santo Domingo (ISSD)
+💻 Hago aplicaciones web full stack: desde la base de datos hasta la interfaz
+📱 También desarrollo apps Android con Kotlin
+🎨 Me interesa el diseño de interfaces y la experiencia de usuario (UX/UI)
+📍 Córdoba, Argentina
+💬 Preguntame sobre cualquiera de estos temas 👇
+📚 Lo que aprendí en la carrera
+🌐 Desarrollo web full stack: JavaScript, TypeScript, React, Next.js, Node.js, Express y APIs REST
+🗄️ Bases de datos: SQL con PostgreSQL y NoSQL con MongoDB
+📱 Desarrollo mobile: apps Android con Java, Kotlin y Android Studio
+🧮 Algoritmos y estructuras de datos
+✅ Calidad de software y testing: casos de prueba, clases de equivalencia, validación y verificación
+🔐 Seguridad informática: tríada CIA, amenazas, malware y buenas prácticas de protección de la información
+🌐 Redes: reconocimiento de activos y análisis de tráfico con Nmap/Zenmap y Wireshark
+🛠️ Soporte técnico: mantenimiento de PCs, sistemas y redes de oficina
 ---
-
-# 🌐 Conecta conmigo
-
-<p align="left">
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:matiasalbanogonzalez@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contáctame-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/matiasalbanogonzalez-cell">
-<img src="https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
+🚀 Proyectos destacados
+Proyecto	Descripción	Tecnologías
+🛒 Overclock Store	Tienda online gamer con carrito, pagos con Mercado Pago, panel de administración y envío de mails.	Next.js · TypeScript · Tailwind · Drizzle · PostgreSQL
+🏥 Sistema de Turnos Médicos	Gestión de turnos con login JWT, roles de admin y paciente, y prevención de turnos duplicados.	React · Node.js · Express · MongoDB
+🦖 Dino Salto	Juego Android inspirado en el dinosaurio de Chrome, hecho para mi hija. Game loop propio, sin librerías.	Kotlin · Android SDK
+➡️ Más proyectos en mi portfolio.
 ---
-
-# 💻 Tecnologías
-
+💻 Tecnologías
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,redux,vue,nodejs,express,mongodb,postgres,java,spring,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgres,java,kotlin,androidstudio,firebase" />
 </p>
-
----
-
-# 🛠 Herramientas
-
+🛠 Herramientas
 <p>
-<img src="https://skillicons.dev/icons?i=git,linux,vscode,docker,postman,figma,jenkins,aws,azure" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma,vercel,linux" />
 </p>
-
 ---
-
-# 📊 Estadísticas de GitHub
-
+🐍 Mis contribuciones
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=matiasalbanogonzalez-cell&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matiasalbanogonzalez-cell&layout=compact&theme=tokyonight"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matiasalbanogonzalez-cell/matiasalbanogonzalez-cell/output/github-snake-dark.svg" />
+    <img alt="Viborita comiendo mis contribuciones" src="https://raw.githubusercontent.com/matiasalbanogonzalez-cell/matiasalbanogonzalez-cell/output/github-snake.svg" />
+  </picture>
 </p>
-
----
-
-# 📈 Actividad en GitHub
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=matiasalbanogonzalez-cell&theme=tokyo-night"/>
-
----
-
-# 🏆 Logros en GitHub
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=matiasalbanogonzalez-cell&theme=algolia&no-frame=true&no-bg=true&margin-w=4"/>
-</p>
-
----
-
-# 🐍 Contribuciones
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=matiasalbanogonzalez-cell&label=Visitas%20al%20perfil&color=blue&style=flat"/>
-</p>
-
-<p align="center">
-⭐ Gracias por visitar mi perfil
-</p>
+<p align="center">⭐ Gracias por pasar por mi perfil</p>
